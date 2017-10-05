@@ -17,7 +17,7 @@ export default class InstaluraMobile extends Component {
     return (
       <View style={styles.container}>
         <Text style={styles.welcome}>
-          Bem-vindo ao curso de React Native
+          Welcome to React Native!
         </Text>
         <Text style={styles.instructions}>
           To get started, edit index.android.js
